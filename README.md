@@ -25,29 +25,7 @@
 
 ---
 
-## 👨‍💻 About Me
 
-```python
-class Jeevan:
-    def __init__(self):
-        self.name       = "Jeevan M"
-        self.role       = "B.Tech CSE Student"
-        self.location   = "India 🇮🇳"
-        self.email      = "jeevanmalagalu@gmail.com"
-        self.motto      = "Code. Learn. Improve. Repeat."
-
-    def currently(self):
-        return {
-            "learning"  : ["Data Structures & Algorithms", "OOP in Java", "Python Scripting"],
-            "exploring" : ["Machine Learning basics", "Open Source contributions"],
-            "tools"     : ["VS Code", "Windows Terminal", "Canva", "NVIDIA CUDA"],
-        }
-
-    def fun_fact(self):
-        return "I debug with print statements and I'm not ashamed of it 😄"
-
-me = Jeevan()
-```
 
 ---
 
@@ -97,27 +75,7 @@ me = Jeevan()
 
 [![Jeevan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JEEVAN2008-jeeva&theme=tokyo-night&hide_border=true&area=true&color=6366f1&line=6366f1&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JEEVAN2008-jeeva&theme=tokyonight&no-frame=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-[![Top Contrib](https://github-contributor-stats.vercel.app/api?username=JEEVAN2008-jeeva&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/DenverCoder1/github-contributor-stats)
-
-</div>
 
 ---
 
